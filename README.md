@@ -1,4 +1,4 @@
-# Esto es una práctica
+# Esto es una práctica para el Master
 
 Esto es una práctica de Git.
 
